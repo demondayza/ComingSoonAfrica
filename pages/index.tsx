@@ -18,7 +18,7 @@ const IndexPage = () => (
         <h3 className="font-light text-xl uppercase tracking-wider">
           Coming soon
         </h3>
-        <h1 className="text-7xl lg:text-9xl font-extrabold">We’r blowing up</h1>
+        <h1 className="text-7xl lg:text-9xl font-extrabold">We’re changing the validator game</h1>
         <p className="text-xl lg:text-2xl tracking-wide mx-10 lg:max-w-xl lg:mx-auto">
         Africa.validator - The first truly African Validator service
         </p>
